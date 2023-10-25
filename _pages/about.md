@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Giacomo, a PhD student and "la Caixa" Foundation Fellow at the Institute of Photonic Sciences (ICFO) advised by [Antonio Acín](https://www.icfo.eu/research-group/7/quantum-information/home/437/). 
+I am Giacomo, a PhD student and ["la Caixa" Foundation](https://lacaixafoundation.org/en/doctoral-inphinit-fellowships-incoming-call) fellow at the Institute of Photonic Sciences (ICFO), advised by [Antonio Acín](https://www.icfo.eu/research-group/7/quantum-information/home/437/). 
