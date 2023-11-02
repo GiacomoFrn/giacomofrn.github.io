@@ -83,7 +83,7 @@ author:
   name             : "Giacomo Franceschetto"
   avatar           : "profile.png"
   bio              : "PhD student in quantum information theory"
-  location         : "Barcelona, ES"
+  location         :
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xHkJeE4AAAAJ&hl=en"
