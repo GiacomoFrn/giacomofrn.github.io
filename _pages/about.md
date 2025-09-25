@@ -27,7 +27,7 @@ For more info feel free to check my [CV](https://giacomofrn.github.io/cv/) or ge
 ### 2021 - 2023
 **MSc - Physics of Data**  
 *Università degli Studi di Padova.*  
-Semester abroad at University of Innsbruck (MSc Quantum Sciences) & IQOQI superconducting quantum circuits group 
+Semester abroad at University of Innsbruck (MSc Quantum Sciences) & IQOQI superconducting quantum circuits group  
 Summer student at ICFO QIT group 
 
 ### 2018 - 2021
