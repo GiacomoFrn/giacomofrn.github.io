@@ -7,8 +7,8 @@ excerpt: 'We study satellite mission planning as a combinatorial optimization pr
 date: 2024-04-08
 venue: 'IEEE Access'
 authors: 'Antón Makarov, Carlos Pérez-Herradón, <strong>Giacomo Franceschetto</strong>, Márcio M Taddei, Eneko Osaba, Paloma del Barrio Cabello, Esther Villar-Rodriguez, Izaskun Oregi'
-slidesurl: ''
+slidesurl: 
 link: 'https://ieeexplore.ieee.org/abstract/document/10534762/'
-bibtexurl: ''
-citation: ''
+bibtexurl: 
+citation: 
 ---
