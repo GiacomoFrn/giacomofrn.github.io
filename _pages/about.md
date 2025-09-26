@@ -15,12 +15,12 @@ For more info feel free to check my [CV](https://giacomofrn.github.io/cv/) or ge
 ##  Where I studied & worked
 
 ### 2024 - Present  
-**Ph.D. Student - Quantum Information**  
+**Ph.D. Student - Quantum information theory**  
 *ICFO, Quantum Information Theory group - Castelldefels, Barcelona.*  
 
 
 ### 2023 (9 months)  
-**Quantum Applications Engineer**  
+**Quantum applications engineer**  
 *Quandela - Massy (Paris).*  
 
 
