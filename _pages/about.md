@@ -16,7 +16,7 @@ For more info feel free to check my [CV](https://giacomofrn.github.io/cv/) or ge
 
 ### 2024 - Present  
 **Ph.D. Student - Quantum information theory**  
-*ICFO, Quantum Information Theory group - Castelldefels, Barcelona.*  
+*ICFO, Quantum Information Theory group - Castelldefels (Barcelona).*  
 
 
 ### 2023 (9 months)  
