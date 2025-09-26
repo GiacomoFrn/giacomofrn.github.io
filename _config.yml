@@ -310,3 +310,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+publication_category:
+  - ["preprints", title: "Preprints"]
+  - ["published", title: "Published"]

@@ -1,11 +1,12 @@
 ---
 title: "Hamiltonian learning via quantum Zeno effect"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2025-09-19-hamiltonian-learning-zeno
 excerpt: 'We propose a Hamiltonian learning protocol that leverages the quantum Zeno effect to reshape and localize system dynamics, enabling the extraction of local Hamiltonian coefficients, and demonstrate its feasibility by learning a 109-qubit Hamiltonian on IBM’s hardware.'
 date: 2025-09-19
 venue: 'arXiv'
+authors: '**Giacomo Franceschetto**, **Egle Pagliaro**, Luciano Pereira, Leonardo Zambrano, Antonio Acín'
 slidesurl: ''
 paperurl: 'https://arXiv.org/abs/2509.15713'
 bibtexurl: ''
