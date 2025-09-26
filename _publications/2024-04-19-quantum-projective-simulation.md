@@ -6,7 +6,7 @@ permalink: /publication/2024-04-19-quantum-projective-simulation
 excerpt: 'We implement a projective-simulation-based variational reinforcement learning algorithm on Quandela’s single-photon quantum computer. Using quantum walks of photons across tunable beamsplitters and phase shifters, we solve a benchmark task and demonstrate the potential of a quantum agent over a classical one.'
 date: 2024-04-19
 venue: 'Physical Review A'
-authors: '**Giacomo Franceschetto**, Arno Ricou'
+authors: '<strong>Giacomo Franceschetto</strong>, Arno Ricou'
 slidesurl: ''  # (if you have slides, fill in)
 paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.062613'
 bibtexurl: ''  # (add link to BibTeX if you have it)
