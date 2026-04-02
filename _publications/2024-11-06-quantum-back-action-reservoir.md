@@ -3,7 +3,7 @@ title: "Harnessing quantum back-action for time-series processing"
 collection: publications
 category: published
 permalink: /publication/2024-11-06-quantum-back-action-reservoir
-excerpt: 'We show that optimizing indirect measurements in quantum reservoir computing improves execution time and overall performance. By tuning both the reservoir Hamiltonian and measurement strength across benchmarking tasks, we provide a practical approach for enhancing indirect measurement-based protocols.'
+excerpt: 'We show that optimizing indirect measurements in quantum reservoir computing improves execution time and overall performance. By tuning both the reservoir Hamiltonian and measurement strength across benchmarking tasks, we provide a practical approach to enhance indirect measurement-based protocols.'
 date: 2026-04-02
 venue: 'Physical Review X'
 authors: '<strong>Giacomo Franceschetto</strong>, Marcin Płodzień, Maciej Lewenstein, Antonio Acín, Pere Mujal'
