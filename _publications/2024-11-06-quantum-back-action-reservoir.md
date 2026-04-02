@@ -5,7 +5,7 @@ category: published
 permalink: /publication/2024-11-06-quantum-back-action-reservoir
 excerpt: 'We show that optimizing indirect measurements in quantum reservoir computing improves execution time and overall performance. By tuning both the reservoir Hamiltonian and measurement strength across benchmarking tasks, we provide a practical approach for enhancing indirect measurement-based protocols.'
 date: 2026-04-02
-venue: 'Physical Review X, 2026'
+venue: 'Physical Review X'
 authors: '<strong>Giacomo Franceschetto</strong>, Marcin Płodzień, Maciej Lewenstein, Antonio Acín, Pere Mujal'
 slidesurl: 
 link: 'https://journals.aps.org/prx/abstract/10.1103/j7f9-hfsj'
