@@ -13,7 +13,7 @@ redirect_from:
 
 ##  Where I studied & worked
 
-### Jun 2026 - Sep 2026
+### Jun 2026 - Present
 **Quantum algorithms intern**  
 *Rigetti Computing, Berkley (California) - Remote.*  
 
