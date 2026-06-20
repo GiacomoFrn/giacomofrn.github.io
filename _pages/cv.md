@@ -13,26 +13,26 @@ redirect_from:
 
 ##  Where I studied & worked
 
-### Summer 2026  
+### Jun 2026 - Sep 2026
 **Quantum algorithms intern**  
 *Rigetti Computing, Berkley (California) - Remote.*  
 
-### 2024 - Present  
+### Dec 2023 - Present  
 **Ph.D. Student - Quantum information theory**  
 *ICFO, Quantum Information Theory group - Castelldefels (Barcelona).*  
 
 
-### 2023 (9 months)  
+### Mar 2023 - Dec 2023 
 **Quantum applications engineer**  
 *Quandela - Massy (Paris).*  
 
 
-### 2021 - 2023
+### Oct 2021 - Oct 2023
 **MSc - Physics of Data**  
 *Università degli Studi di Padova.*  
 Semester abroad at University of Innsbruck (MSc Quantum Sciences) & IQOQI superconducting quantum circuits group  
 Summer student at ICFO QIT group 
 
-### 2018 - 2021
+### Oct 2018 - July 2021
 **BSc - Physics**  
 *Università degli Studi di Padova.*
