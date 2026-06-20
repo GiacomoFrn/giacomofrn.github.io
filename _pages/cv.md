@@ -9,9 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="font-size: 100%;">Click here to download: &nbsp;&nbsp;&nbsp;</span> <a href="{{base.url}}/assets/files/FranceschettoGiacomoCV_May26.pdf" target="_blank" class="btn btn-success"><span style="font-size: 120%;">Curriculum Vitae</span></a>
+<span style="font-size: 100%;">Click here to download: &nbsp;&nbsp;&nbsp;</span> <a href="{{base.url}}/assets/files/FranceschettoGiacomoCV_June26.pdf" target="_blank" class="btn btn-success"><span style="font-size: 120%;">Curriculum Vitae</span></a>
 
 ##  Where I studied & worked
+
+### Summer 2026  
+**Quantum algorithms intern**  
+*Rigetti Computing, Berkley (California) - Remote.*  
 
 ### 2024 - Present  
 **Ph.D. Student - Quantum information theory**  
