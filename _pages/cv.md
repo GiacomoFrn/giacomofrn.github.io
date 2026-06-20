@@ -33,6 +33,6 @@ redirect_from:
 Semester abroad at University of Innsbruck (MSc Quantum Sciences) & IQOQI superconducting quantum circuits group  
 Summer student at ICFO QIT group 
 
-### Oct 2018 - July 2021
+### Oct 2018 - Jul 2021
 **BSc - Physics**  
 *Università degli Studi di Padova.*
